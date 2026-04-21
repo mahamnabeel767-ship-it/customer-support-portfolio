@@ -1,7 +1,9 @@
 # customer-support-portfolio
 Customer Support Portfolio – Maham Nabeel
 
-Name: Mahum Nabeel
+---*This portfolio showcases my customer support skills including chat support, email handling, and call communication*.
+
+Name: Maham Nabeel
 Email: [nabeelmaham268@gmail.com](mailto:nabeelmaham268@gmail.com)
 
 ---
@@ -98,8 +100,8 @@ Maham Nabeel
 
 ## 📜 Knowledge
 
-* Communication Skills Course from Nobel
-* Problem solvig strategy
+* Communication Skills Course
+* Problem solving strategy
 * Public Speaking
 
 ---
